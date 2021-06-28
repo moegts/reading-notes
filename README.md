@@ -13,8 +13,8 @@
 for more information please visit: [www.Atlassian.com - Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 ```
-`A= "Knowledge"`
-`B= "Experience"`
-`print (A+" & "+B+" = Wisdom)`
+A= "Knowledge"
+B= "Experience"
+print (A+" & "+B+" = Wisdom)
 # by Gts
 ```
