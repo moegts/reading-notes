@@ -19,5 +19,6 @@ print (A+" & "+B+" = Wisdom)
 # by Gts
 ```
 ### to go to Read01 page [Click Here](https://moegts.github.io/reading-notes/read01) 
-###### I'm Mohammad Ali Khalil, Architect from Al-Quds College graduated in 2013 have good experience in IT and designing 
+###### I'm Mohammad Ali Khalil, Architect from **Al-Quds College** graduated in **2013** have good experience in *IT* and **Designing**..
 [My GetHub](https://github.com/moegts)
+
