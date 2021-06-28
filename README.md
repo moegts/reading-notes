@@ -3,7 +3,7 @@
 ### also you will feel better , and *smile* more often ..
 ![explain growth vs fixed mindset](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
 #### here is how to have growth mindset
-- Never give up and keep going..
+- Never give up and keep trying..
 - Work again and again until you solve it..
 - Work with teams and try to improve together..
 - Try to listen or do what ever can **Motivate** you like videos or music..
@@ -11,3 +11,9 @@
 - Work inside of your job and always try to explore more about your job improve think out of the box don't lock your self with your environment for ever
 
 for more information please visit: [www.Atlassian.com - Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+```
+`A= "Knowledge"`
+`B= "Experience"`
+`print (A+" & "+B+" = Wisdom)`
+```
