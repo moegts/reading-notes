@@ -2,7 +2,7 @@
 ## So we need to have growth mindset to be more creative and that will help us hit higher goals and more achievement.
 ### also you will feel better , and *Smile* more often ..
 ![explain growth vs fixed mindset](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
-#### here is how to have growth mindset
+#### here is how to have **Growth** **mindset**:
 - Never give up and keep trying..
 - Work again and again until you solve it..
 - Work with teams and try to improve together..
