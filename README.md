@@ -1,6 +1,6 @@
 # Growth Mindset
 ## So we need to have growth mindset to be more creative and that will help us hit higher goals and more achievement.
-### also you will feel better , and *smile* more often ..
+### also you will feel better , and *Smile* more often ..
 ![explain growth vs fixed mindset](https://i2.wp.com/atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png?resize=768%2C960&ssl=1)
 #### here is how to have growth mindset
 - Never give up and keep trying..
@@ -16,4 +16,5 @@ for more information please visit: [www.Atlassian.com - Growth Mindset](https://
 `A= "Knowledge"`
 `B= "Experience"`
 `print (A+" & "+B+" = Wisdom)`
+# by Gts
 ```
