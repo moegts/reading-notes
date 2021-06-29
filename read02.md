@@ -1,8 +1,8 @@
-## Seeing Your Remotes
+## **Seeing Your Remotes**
 ### in order to check the remotes stats you need to do the following commands in the shell:
 
-1. `git remote`
-2. `git remote -v`
+1. >`git remote`
+2. >`git remote -v`
 
       ```
       origin  https://github.com/moegts/reading-notes       (fetch)
