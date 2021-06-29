@@ -8,4 +8,6 @@
       origin  https://github.com/moegts/reading-notes       (fetch)
       origin  https://github.com/moegts/reading-notes       (push)
       ```
-#### **Remote Repositories** will allow you to  work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
+      
+**Remote Repositories**
+>   will allow you to  work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
