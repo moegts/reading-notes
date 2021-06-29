@@ -1,9 +1,11 @@
 ## Seeing Your Remotes
 ### in order to check the remotes stats you need to do the following commands in the shell:
 
-1. >`git remote`
-2. >`git remote -v`
+>`git remote`
 
+>`git remote -v`
+
+##### **Results**:
       ```
       origin  https://github.com/moegts/reading-notes       (fetch)
       origin  https://github.com/moegts/reading-notes       (push)
