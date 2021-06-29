@@ -1,14 +1,20 @@
-## **Seeing Your Remotes**
+# information about Git & Seeing Your Remotes
+## lets talk about Git:
+##### It’s an offline software that use Command Line Interface, allows you to track files versions and all changes and modifications done to them, that will helps you to track mistakes and errors and who was responsible for them, as a result you fix issues in you project with less time and effort, it also helps prevent data loss.
+
+### The Steps After Making Changes to update the Online file:
+#### `git add .` “to add the changes you made”
+
+#### `git commit -m "why you change it"` ”comment why you change it”
+
+#### `git Push origin main` “to update the changes you made and apply them”
+
+## some info about Seeing Your Remotes:
+
 ### in order to check the remotes stats you need to do the following commands in the shell:
 
-<<<<<<< HEAD
 1. >`git remote`
 2. >`git remote -v`
-=======
-`git remote`
->>>>>>> 3e3b774d4178029ea1022216acb17cc7bbe9b2f6
-
-`git remote -v`
 
 ##### **Results**:
 ```
