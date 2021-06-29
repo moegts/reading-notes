@@ -1,15 +1,15 @@
 ## Seeing Your Remotes
 ### in order to check the remotes stats you need to do the following commands in the shell:
 
-##### `git remote`
+`git remote`
 
-##### `git remote -v`
+`git remote -v`
 
 ##### **Results**:
-      ```
-      origin  https://github.com/moegts/reading-notes       (fetch)
-      origin  https://github.com/moegts/reading-notes       (push)
-      ```
+```
+origin  https://github.com/moegts/reading-notes       (fetch)
+origin  https://github.com/moegts/reading-notes       (push)
+```
       
 **Remote Repositories**
 >   will allow you to  work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
