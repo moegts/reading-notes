@@ -4,8 +4,8 @@
 
 ## Here is my content list:
 
-| Contents         | Link                     |
-| :--------------: | :----------------------: |
-| Growth Mindset   | [Go to](Growthmindset)   |
-| read01           | [Go to](read01)          |
-| read02           | [Go to](read02)          |
+| Contents         | Link                        |
+| :--------------: | :----------------------:    |
+| Growth Mindset   | [Go to](Growthmindset.md)   |
+| read01           | [Go to](read01.md)          |
+| read02           | [Go to](read02.md)          |
