@@ -1,14 +1,8 @@
 ## **Seeing Your Remotes**
 ### in order to check the remotes stats you need to do the following commands in the shell:
 
-<<<<<<< HEAD
 1. >`git remote`
 2. >`git remote -v`
-=======
-`git remote`
->>>>>>> 3e3b774d4178029ea1022216acb17cc7bbe9b2f6
-
-`git remote -v`
 
 ##### **Results**:
 ```
