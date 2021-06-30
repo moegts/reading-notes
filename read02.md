@@ -9,7 +9,7 @@
 
 #### `git Push origin main` “to update the changes you made and apply them”
 
-## some info about Seeing Your Remotes:
+## Some info about how check Your Remotes:
 
 ### in order to check the remotes stats you need to do the following commands in the shell:
 
