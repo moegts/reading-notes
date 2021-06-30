@@ -8,5 +8,6 @@
 | Contents         | Link                        |
 | :--------------: | :----------------------:    |
 | Growth Mindset   | [Go to](Growthmindset.md)   |
-| read01           | [Go to](read01.md)          |
-| read02           | [Go to](read02.md)          |
+| Read01           | [Go to](read01.md)          |
+| Read02           | [Go to](read02.md)          |
+| Read03           | [Go to](read03.md)          |
