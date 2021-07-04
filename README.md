@@ -15,4 +15,6 @@
 | Read04           | [Go to](read04.md)          | javascript |
 | Read05           | [Go to](read05.md)          |Expressions and operators|
 | Read06           | [Go to](read06.md)          ||
+| Read07           | [Go to](read07.md)          |Programming with JavaScript|
+
 
