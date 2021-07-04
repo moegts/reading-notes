@@ -14,5 +14,7 @@
 | Read03           | [Go to](read03.md)          | WireFrame and HTML |
 | Read04           | [Go to](read04.md)          | javascript |
 | Read05           | [Go to](read05.md)          |Expressions and operators|
-| Read06           | [Go to](read06.md)          ||
+| Read06           | [Go to](read06.md)          |Design web pages with CSS|
+| Read07           | [Go to](read07.md)          |Programming with JavaScript|
+
 
