@@ -1,10 +1,35 @@
 # [Welcome to my Reading Notes](https://moegts.github.io/reading-notes/)
 
+![Reading Notes](readingNotes.png)
+
 ### hey, I'm Mohammad Ali Khalil, *Architect* from **Al-Quds College** Graduated in **2013** have good experience in **IT** and **Designing**
-### also I'm looking to be **Expert Programer** (ان شاء الله)..
+### also I'm looking to be ***Expert* Programer** (ان شاء الله)..
 [My GetHub](https://github.com/moegts)
 
-## Here is my content list:
+
+## Code 201 Reading Notes:
+### Here is my content list: 
+| Contents         | Link                        |  About |
+| :--------------: | :----------------------:    |  :---: |
+| class-01         | [Go to](class-01.md)        | Introductory HTML and JavaScript |
+| class-02         | [Go to](class-02.md)        | |
+| class-03         | [Go to](class-03.md)        | |
+| class-04         | [Go to](class-04.md)        | |
+| class-05         | [Go to](class-05.md)        | |
+| class-06         | [Go to](class-06.md)        | |
+| class-07         | [Go to](class-07.md)        | |
+| class-08         | [Go to](class-08.md)        | |
+| class-09         | [Go to](class-09.md)        | |
+| class-10         | [Go to](class-10.md)        | |
+| class-11         | [Go to](class-11.md)        | |
+| class-12         | [Go to](class-12.md)        | |
+| class-13         | [Go to](class-13.md)        | |
+| class-14         | [Go to](class-14.md)        | |
+| class-15         | [Go to](class-15.md)        | |
+
+
+## 102 CODE:
+### Here is my content list: 
 
 | Contents         | Link                        |  About |
 | :--------------: | :----------------------:    |  :---: |
@@ -16,5 +41,4 @@
 | Read05           | [Go to](read05.md)          |Expressions and operators|
 | Read06           | [Go to](read06.md)          |Design web pages with CSS|
 | Read07           | [Go to](read07.md)          |Programming with JavaScript|
-| class-01         | [Go to](class-01.md)        | |
 
