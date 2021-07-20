@@ -13,20 +13,8 @@
 | Read02           | [Go to](read02.md)          | Git & Remotes |
 | Read03           | [Go to](read03.md)          | WireFrame and HTML |
 | Read04           | [Go to](read04.md)          | javascript |
-<<<<<<< HEAD
-| Read05           | [Go to](read05.md)          | Expressions and operators |
-| Read06           | [Go to](read06.md)          | Design web pages with CSS |
-| Read06           | [Go to](read06.md)          | Expressions and operators |
-| Read07           | [Go to](read07.md)          | Programming with JavaScript |
-| class-01         | [Go to](class-01.md)        | |
-=======
 | Read05           | [Go to](read05.md)          |Expressions and operators|
-<<<<<<< HEAD
 | Read06           | [Go to](read06.md)          |Design web pages with CSS|
-=======
-| Read06           | [Go to](read06.md)          ||
->>>>>>> 023e4da45d839da7987d0ee6af0568446a2ec07d
 | Read07           | [Go to](read07.md)          |Programming with JavaScript|
+| class-01         | [Go to](class-01.md)        | |
 
-
->>>>>>> d96da31c6b040e8caf2910d7c809bd2b5c699e8f
