@@ -9,6 +9,7 @@
 
 ## Code 201 Reading Notes:
 ### Here is my content list: 
+
 | Contents         | Link                        |  About |
 | :--------------: | :----------------------:    |  :---: |
 | class-01         | [Go to](class-01.md)        | Introductory HTML and JavaScript |
