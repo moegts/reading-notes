@@ -157,6 +157,10 @@ the information you present.
 ![flowchart key](flowchartKey.jpg)
 
 #### THE ABC OF PROGRAMMING Summary
+<<<<<<< HEAD
+=======
+## A
+>>>>>>> 15da7733d8d54677fdc47b9fa9d04dab5e2f9304
 - A script is a series of instructions that the computer can follow in order to achieve a goal. 
 - Each time the script runs, it might only use a subset of all the instructions.
 - Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
