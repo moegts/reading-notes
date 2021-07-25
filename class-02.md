@@ -16,7 +16,7 @@
 | `<br />`         | to create or jump new line |
 | `<hr />`         | to create a break between themes |
 | `<strong>`       | to make content has strong importance it will show as **BOLD** |
-| `<em>`           | to subtly changes the meaning of a sentence, it will show as *italic* |
+| `<em>`           | to subtly changes the meaning ofing of a sentence, it will show as *italic* |
 | `<blockquote>`   | to create block of quote, also you need to add `<p>` or any text tag |
 | `<q>`            | to create double quotes arround the text |
 | `<abbr>`         | to create pop up window that tell you more info about the text |
@@ -75,7 +75,7 @@
 
 ## Chapter 2: “Basic JavaScript Instructions”
 #### JAVASCRIPT IS CASE SENSITIVE
-##### JavaScript is case sensitive so hourNow means something different to HourNow or HOURNOW.
+##### JavaScript is case sensitive so hourNow meaning ofs something different to HourNow or HOURNOW.
 
 ##### You should write comments to explain what your code does.
 ##### They help make your code easier to read and understand.
@@ -85,9 +85,7 @@
 ##### STRING DATA TYPE `'Hi, Ivy!'`
 ##### BOOLEAN DATA TYPE `true`
 
-# 
-
-#### RULES FOR NAMING VARIABLES 
+#### RULES FOR NAMING VARIABLES
 1. The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
 2. The name can contain letters, numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name.
 3. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript.
@@ -137,10 +135,11 @@ strings (text), and Boolean values (true or false).
 # Chapter 4: “Decisions and Loops”
 
 #### Comparison Operators:
-1. `==` mean **IS EQUAL TO?** 
-2. `!=` mean **IS NOT EQUAL TO?**
-3. `===` mean **STRICT EQUAL TO (100%)**.
-4. `!==` mean **STRICT NOT EQUAL TO**  eg. (`"3" !== 3`) the answer is true.
-5. `&&` mean **LOGICAL AND** This operator tests more than one condition `((3 < 6>) && (2>=1))` returns `true`.
-6. `||` mean **LOGICAL OR** This operator tests at least one condition.
-7. `!` mean **LOGICAL NOT** This this operator takes a single boolean value and inverts it.
+1. meaning of `==` **IS EQUAL TO?** 
+2. meaning of `!=` **IS NOT EQUAL TO?**
+3. meaning of `===` **STRICT EQUAL TO (100%)**.
+4. meaning of `!==` **STRICT NOT EQUAL TO**  eg. (`"3" !== 3`) the answer is true.
+5. meaning of `&&` **LOGICAL AND** This operator tests more than one condition
+````((3 < 6>) && (2>=1))` returns `true````.
+6. meaning of `||` **LOGICAL OR** This operator tests at least one condition.
+7. meaning of `!` **LOGICAL NOT** This this operator takes a single boolean value and inverts it.
