@@ -135,3 +135,12 @@ strings (text), and Boolean values (true or false).
 
 
 # Chapter 4: “Decisions and Loops”
+
+#### Comparison Operators:
+1. `==` mean **IS EQUAL TO?** 
+2. `!=` mean **IS NOT EQUAL TO?**
+3. `===` mean **STRICT EQUAL TO (100%)**.
+4. `!==` mean **STRICT NOT EQUAL TO**  eg. (`"3" !== 3`) the answer is true.
+5. `&&` mean **LOGICAL AND** This operator tests more than one condition `((3 < 6>) && (2>=1))` returns `true`.
+6. `||` mean **LOGICAL OR** This operator tests at least one condition.
+7. `!` mean **LOGICAL NOT** This this operator takes a single boolean value and inverts it.
