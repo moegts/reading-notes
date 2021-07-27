@@ -14,7 +14,7 @@
 | :--------------: | :----------------------:    |  :---: |
 | class-01         | [Go to](class-01.md)        | Introductory HTML and JavaScript |
 | class-02         | [Go to](class-02.md)        | HTML Text, CSS and Basic JS Instructions |
-| class-03         | [Go to](class-03.md)        | not ready yet |
+| class-03         | [Go to](class-03.md)        | HTML Lists, JS Control Flow, Box Model |
 | class-04         | [Go to](class-04.md)        | not ready yet |
 | class-05         | [Go to](class-05.md)        | not ready yet |
 | class-06         | [Go to](class-06.md)        | not ready yet |
