@@ -159,8 +159,6 @@ return ahmad;
 
 - - -
 
-#### Extra idea about this
+#### My idea about this
 
-#### `[Jose Perez]()` said
-
-#### Another..it can be done remotely! Very 2020! The tools for remote pair programming have improved a lot! I found a YC company that has launched a tool for remote PP, includes video+audio, is P2P, and supports multiple IDEs (Jetbrains, VSC. )
+#### I really pair programming and I even kinda doing it before even know the full benefit of it but they didn't talk about we also can easily be done online with and screen share application.
