@@ -161,4 +161,4 @@ return ahmad;
 
 #### My idea about this
 
-#### I really pair programming and I even kinda doing it before even know the full benefit of it but they didn't talk about we also can easily be done online with and screen share application.
+#### I really pair programming and I even kinda doing it before even know the full benefit of it but they didn't talk about we also can easily be done online with any screen share application.
