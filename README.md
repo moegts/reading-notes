@@ -16,7 +16,7 @@
 | class-02         | [Go to](class-02.md)        | HTML Text, CSS and Basic JS Instructions |
 | class-03         | [Go to](class-03.md)        | HTML Lists, JS Control Flow, Box Model |
 | class-04         | [Go to](class-04.md)        | HTML Links, JS Functions, and Intro to CSS Layout |
-| class-05         | [Go to](class-05.md)        | not ready yet |
+| class-05         | [Go to](class-05.md)        | HTML Images; CSS Color & Text |
 | class-06         | [Go to](class-06.md)        | not ready yet |
 | class-07         | [Go to](class-07.md)        | not ready yet |
 | class-08         | [Go to](class-08.md)        | not ready yet |
