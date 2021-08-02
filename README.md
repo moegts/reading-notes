@@ -18,7 +18,7 @@
 | class-04         | [Go to](class-04.md)        | HTML Links, JS Functions, and Intro to CSS Layout |
 | class-05         | [Go to](class-05.md)        | HTML Images; CSS Color & Text |
 | class-06         | [Go to](class-06.md)        | JS Object Literals; The DOM |
-| class-07         | [Go to](class-07.md)        | not ready yet |
+| class-07         | [Go to](class-07.md)        | HTML Tables; JS Constructor Functions |
 | class-08         | [Go to](class-08.md)        | not ready yet |
 | class-09         | [Go to](class-09.md)        | not ready yet |
 | class-10         | [Go to](class-10.md)        | not ready yet |
