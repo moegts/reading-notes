@@ -20,8 +20,8 @@
 | class-06         | [Go to](class-06.md)        | JS Object Literals; The DOM |
 | class-07         | [Go to](class-07.md)        | HTML Tables; JS Constructor Functions |
 | class-08         | [Go to](class-08.md)        | Read: 08 - More CSS Layout |
-| class-09         | [Go to](class-09.md)        | not ready yet |
-| class-10         | [Go to](class-10.md)        | not ready yet |
+| class-09         | [Go to](class-09.md)        | Forms and Events |
+| class-10         | [Go to](class-10.md)        | JS Debugging |
 | class-11         | [Go to](class-11.md)        | not ready yet |
 | class-12         | [Go to](class-12.md)        | not ready yet |
 | class-13         | [Go to](class-13.md)        | not ready yet |
