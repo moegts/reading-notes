@@ -23,7 +23,7 @@
 | class-09         | [Go to](class-09.md)        | Forms and Events |
 | class-10         | [Go to](class-10.md)        | JS Debugging |
 | class-11         | [Go to](class-11.md)        | Audio, Video, Images |
-| class-12         | [Go to](class-12.md)        | not ready yet |
+| class-12         | [Go to](class-12.md)        | Docs for the HTML `<canvas>` Element & Chart |
 | class-13         | [Go to](class-13.md)        | not ready yet |
 | class-14         | [Go to](class-14.md)        | not ready yet |
 | class-15         | [Go to](class-15.md)        | not ready yet |
