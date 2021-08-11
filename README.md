@@ -2,12 +2,15 @@
 
 ![Reading Notes](readingNotes.png)
 
-### hey, I'm Mohammad Ali Khalil, *Architect* from **Al-Quds College** Graduated in **2013** have good experience in **IT** and **Designing**
-### also I'm looking to be ***Expert* Programer** (ان شاء الله)..
+## Hey, I'm Mohammad Ali Khalil, *Architect* from **Al-Quds College** Graduated in **2013** have good experience in **IT** and **Designing**
+
+### also looking to be ***Expert* Programer** (ان شاء الله)..
+
 [My GetHub](https://github.com/moegts)
 
 
 ## Code 201 Reading Notes:
+
 ### Here is my content list: 
 
 | Contents         | Link                        |  About |
@@ -24,12 +27,14 @@
 | class-10         | [Go to](class-10.md)        | JS Debugging |
 | class-11         | [Go to](class-11.md)        | Audio, Video, Images |
 | class-12         | [Go to](class-12.md)        | Docs for the HTML `<canvas>` Element & Chart |
-| class-13         | [Go to](class-13.md)        | not ready yet |
-| class-14         | [Go to](class-14.md)        | not ready yet |
+| class-13         | [Go to](class-13.md)        | Local Storage |
+| class-14 A       | [Go to](class-14a.md)       | CSS Transforms, Transitions, and Animations |
+| class-14 B       | [Go to](class-14b.md)       | What Google Learned About Teams |
 | class-15         | [Go to](class-15.md)        | not ready yet |
 
 
 ## 102 CODE:
+
 ### Here is my content list: 
 
 | Contents         | Link                        |  About |
