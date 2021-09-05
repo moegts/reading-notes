@@ -8,32 +8,37 @@
 
 [My GetHub](https://github.com/moegts)
 
-## Code 301 Reading Notes:
+## Code 301 Reading Notes:-
 
-### Here is my content list: 
+### Here is my content list of 301:-
 
 | Contents         | Link                        |  About |
 | :--------------: | :----------------------:    |  :---: |
-| class-01         | [Go to](./md301/class-01.md)        | |
-| class-02         | [Go to](./md301/class-02.md)        | |
-| class-03         | [Go to](./md301/class-03.md)        | |
-| class-04         | [Go to](./md301/class-04.md)        | |
-| class-05         | [Go to](./md301/class-05.md)        | |
-| class-06         | [Go to](./md301/class-06.md)        | |
-| class-07         | [Go to](./md301/class-07.md)        | |
-| class-08         | [Go to](./md301/class-08.md)        | |
-| class-09         | [Go to](./md301/class-09.md)        | |
-| class-10         | [Go to](./md301/class-10.md)        | |
-| class-11         | [Go to](./md301/class-11.md)        | |
-| class-12         | [Go to](./md301/class-12.md)        | |
-| class-13         | [Go to](./md301/class-13.md)        | |
-| class-14         | [Go to](./md301/class-14.md)        | |
-| class-15         | [Go to](./md301/class-15.md)        | |
+| class-01         | [Go to](./md301/class-01.md)        | Introduction to React and Components |
+| class-02         | [Go to](./md301/class-02.md)        | not ready yet |
+| class-03         | [Go to](./md301/class-03.md)        | not ready yet |
+| class-04         | [Go to](./md301/class-04.md)        | not ready yet |
+| class-05         | [Go to](./md301/class-05.md)        | not ready yet |
+| class-06         | [Go to](./md301/class-06.md)        | not ready yet |
+| class-07         | [Go to](./md301/class-07.md)        | not ready yet |
+| class-08         | [Go to](./md301/class-08.md)        | not ready yet |
+| class-09         | [Go to](./md301/class-09.md)        | not ready yet |
+| class-10         | [Go to](./md301/class-10.md)        | not ready yet |
+| class-11         | [Go to](./md301/class-11.md)        | not ready yet |
+| class-12         | [Go to](./md301/class-12.md)        | not ready yet |
+| class-13         | [Go to](./md301/class-13.md)        | not ready yet |
+| class-14         | [Go to](./md301/class-14.md)        | not ready yet |
 
+## Things I want to know more about
 
-## Code 201 Reading Notes:
+React Docs - hello world https://reactjs.org/docs/hello-world.html
+React Docs - introducing JSX https://reactjs.org/docs/introducing-jsx.html
+React Docs - rendering elements https://reactjs.org/docs/rendering-elements.html
+React Docs - Components and props https://reactjs.org/docs/components-and-props.html
 
-### Here is my content list: 
+## Code 201 Reading Notes
+
+### Here is my content list of 201:-
 
 | Contents         | Link                        |  About |
 | :--------------: | :----------------------:    |  :---: |
@@ -54,10 +59,9 @@
 | class-14 B       | [Go to](class-14b.md)       | What Google Learned About Teams |
 | class-15         | [Go to](class-15.md)        | not ready yet |
 
+## 102 CODE:-
 
-## 102 CODE:
-
-### Here is my content list: 
+### Here is my content list of 102:-
 
 | Contents         | Link                        |  About |
 | :--------------: | :----------------------:    |  :---: |
