@@ -15,7 +15,7 @@
 | Contents         | Link                        |  About |
 | :--------------: | :----------------------:    |  :---: |
 | class-01         | [Go to](./md301/class-01.md)        | Introduction to React and Components |
-| class-02         | [Go to](./md301/class-02.md)        | not ready yet |
+| class-02         | [Go to](./md301/class-02.md)        | State and Props |
 | class-03         | [Go to](./md301/class-03.md)        | not ready yet |
 | class-04         | [Go to](./md301/class-04.md)        | not ready yet |
 | class-05         | [Go to](./md301/class-05.md)        | not ready yet |
