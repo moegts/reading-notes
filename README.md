@@ -16,7 +16,7 @@
 | :--------------: | :----------------------:    |  :---: |
 | class-01         | [Go to](./md301/class-01.md)        | Introduction to React and Components |
 | class-02         | [Go to](./md301/class-02.md)        | State and Props |
-| class-03         | [Go to](./md301/class-03.md)        | not ready yet |
+| class-03         | [Go to](./md301/class-03.md)        | Passing Functions as Props |
 | class-04         | [Go to](./md301/class-04.md)        | not ready yet |
 | class-05         | [Go to](./md301/class-05.md)        | not ready yet |
 | class-06         | [Go to](./md301/class-06.md)        | not ready yet |
