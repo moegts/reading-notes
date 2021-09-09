@@ -16,9 +16,9 @@
 
 - What are the three questions you can ask to determine if something is state?
 
-1. Can it be passed in from a parent via props? state do not pass.
-2. Remain unchanged over time?  state do not remain unchanged over time.
-3. Can we compute it based on any other state or props in the component? state do not compute.
+1. Can it be passed in from a parent via props? the state does not pass.
+2. Remain unchanged over time? the state does not remain unchanged over time.
+3. Can we compute it based on any other state or props in the component? the state does not compute.
 
 - How can you identify where state needs to live?
 
