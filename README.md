@@ -19,7 +19,7 @@
 | class-03         | [Go to](./md301/class-03.md)        | Passing Functions as Props |
 | class-04         | [Go to](./md301/class-04.md)        | React and Forms |
 | class-05         | [Go to](./md301/class-05.md)        | Putting it all together |
-| class-06         | [Go to](./md301/class-06.md)        | not ready yet |
+| class-06         | [Go to](./md301/class-06.md)        | NODE.JS |
 | class-07         | [Go to](./md301/class-07.md)        | not ready yet |
 | class-08         | [Go to](./md301/class-08.md)        | not ready yet |
 | class-09         | [Go to](./md301/class-09.md)        | not ready yet |
