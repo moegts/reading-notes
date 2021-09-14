@@ -1,6 +1,7 @@
 # Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
 ## HTML & CSS
+
 ### Chapter 2: Text
 
 #### here is a table of tags for text
@@ -28,9 +29,9 @@
 | `<s>`            | to  indicates something that is no longer accurate or relevant. |
 
 #### TEXT Summary
+
 - HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
 - They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
-
 
 ### Chapter 10: Introducing CSS
 
@@ -44,29 +45,38 @@
 3. `rel` This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
 
 #### Using Internal CSS
+
 ![use CSS in HTML](useCSSinHTML.JPG)
-# 
+
+- - -
 
 #### How to CSS
 ![how to CSS](howToCSS.jpg)
-# 
+
+- - -
 
 #### How to change aspects to multi tags at the same time.
 ![how to CSS](howToCSS2.jpg)
-# 
+
+- - -
 
 ![CSS Selectors](SelectorsCSS.jpg)
-# 
+
+- - -
+
 #### Why use External Style Sheets?
+
 - All of your web pages can share the same style sheet.
 - If you want to make a change to how your site appears, you only need to edit the one CSS file and all of your pages will be updated.
 - the one CSS style sheet, rather than changing the CSS rules on every page saves time.
 
 #### just to know 
+
 - **CSS1** was released in **1996**.
 - **CSS2** was released in **1998**.
 
 ### INTRODUCING CSS Summary
+
 - CSS treats each HTML element as if it appears inside its own box and uses rules to indicate how that element should look.
 - Rules are made up of selectors (that specify the elements the rule applies to) and declarations (that indicate what these elements should look like).
 - Different types of selectors allow you to target your rules at different elements.
@@ -74,46 +84,64 @@
 - CSS rules usually appear in a separate document, although they may appear within an HTML page.
 
 ## Chapter 2: “Basic JavaScript Instructions”
+
 #### JAVASCRIPT IS CASE SENSITIVE
+
 ##### JavaScript is case sensitive so hourNow meaning ofs something different to HourNow or HOURNOW.
 
 ##### You should write comments to explain what your code does.
+
 ##### They help make your code easier to read and understand.
-##### This can help you and others who read your code. 
+
+##### This can help you and others who read your code.
+
 ##### here is how you can do it `/*` comment `*/`.
+
 ##### NUMERIC DATA TYPE `0.75`
+
 ##### STRING DATA TYPE `'Hi, Ivy!'`
+
 ##### BOOLEAN DATA TYPE `true`
 
 #### RULES FOR NAMING VARIABLES
+
 1. The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
 2. The name can contain letters, numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name.
 3. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to do something. For example, var is a keyword used to declare a variable. Reserved words are ones that may be used in a future version of JavaScript.
 4. All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases. 
 5. Use a name that describes the kind of information that the variable stores. For example, fi rstName might be used to store a person's first name, l astNarne for their last name, and age for their age.
 6. If your variable name is made up of more than one word, use a capital letter for the first letter of every word after the first word. For example, f i rstName rather than fi rstnarne (this is referred to as camel case). You can also use an underscore between each word (you cannot use a dash).
-# 
+
+- - -
+
 #### An array is a special type of variable. It doesn't just store one value; it stores a list of values.
-```
+
+```bash
 var colors;
 colors ['white', 'black', 'custom']; 
 ```
+
 #### array created using a different technique called an array constructor
-```
+
+```bash
 var colors;
 colors ['white',
         'black',
         'custom']; 
 ```
-### operations like:
 
-#### Arithmatic operations:
-- + for summation
-- * for multiplication
-- / for division
+### operations like:-
+
+#### Arithmatic operations:-
+
+- `+` for summation
+- `*` for multiplication
+- `/` for division
 - Logical Operations:
-- <>, ==, >=, <=, != for comparison
+- `<>, ==, >=, <=, !=` for comparison
+
 ##### here is some examples:
+
 ![ex Operator](exOperator.jpg)
 # 
 #### here is example how to add text by id to HTML using JavaScript:
@@ -129,13 +157,12 @@ than one piece of related information.
 strings (text), and Boolean values (true or false).
 - Expressions evaluate into a single value.
 - Expressions rely on operators to calculate a value.
-# 
 
+- - -
 
-# Chapter 4: “Decisions and Loops”
+#### Comparison Operators:-
 
-#### Comparison Operators:
-1. meaning of `==` **IS EQUAL TO?** 
+1. meaning of `==` **IS EQUAL TO?**
 2. meaning of `!=` **IS NOT EQUAL TO?**
 3. meaning of `===` **STRICT EQUAL TO (100%)**.
 4. meaning of `!==` **STRICT NOT EQUAL TO**  eg. (`"3" !== 3`) the answer is true.
