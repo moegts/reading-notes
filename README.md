@@ -22,7 +22,7 @@
 | class-06         | [Go to](./md301/class-06.md)        | NODE.JS |
 | class-07         | [Go to](./md301/class-07.md)        | REST |
 | class-08         | [Go to](./md301/class-08.md)        | APIs |
-| class-09         | [Go to](./md301/class-09.md)        | not ready yet |
+| class-09         | [Go to](./md301/class-09.md)        | FUNCTIONAL PROGRAMMING |
 | class-10         | [Go to](./md301/class-10.md)        | not ready yet |
 | class-11         | [Go to](./md301/class-11.md)        | not ready yet |
 | class-12         | [Go to](./md301/class-12.md)        | not ready yet |
