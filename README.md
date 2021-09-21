@@ -26,7 +26,7 @@
 | class-10         | [Go to](./md301/class-10.md)        | Memory Storage |
 | class-11         | [Go to](./md301/class-11.md)        | Mongo and Mongoose |
 | class-12         | [Go to](./md301/class-12.md)        | not ready yet |
-| class-13         | [Go to](./md301/class-13.md)        | not ready yet |
+| class-13         | [Go to](./md301/class-13.md)        | Diversity & Inclusion => Tech Industry |
 | class-14         | [Go to](./md301/class-14.md)        | not ready yet |
 
 ## Things I want to know more about
