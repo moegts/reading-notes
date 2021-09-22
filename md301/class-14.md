@@ -40,3 +40,31 @@ systems, notably Kerberos, work similarly. What is special about OAuth is its ab
 - What is OpenID?
 
      The idea, in the early days of Web 2.0, was that rather than having multiple logins for multiple websites, OpenID would serve as a single sign-in, vouching for the identities of users. But in practice OpenID was difficult to implement on the developer side
+
+- What is the difference between authorization and authentication?
+
+     Authentication confirms that users are who they say they are. Authorization gives those users permission to access a resource
+
+- What is Authorization Code Flow?
+
+     It's used to perform authentication and authorization in the majority of app types, including single page apps, web apps, and natively installed apps
+
+- What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)?
+
+     During authentication, mobile and native applications can use the Authorization Code Flow, but they require additional security. Additionally, single-page apps have special challenges. To mitigate these, OAuth 2.0 provides a version of the Authorization Code Flow which makes use of a Proof Key for Code Exchange (PKCE).
+
+- What is Implicit Flow with Form Post?
+
+     it does offer a streamlined workflow if the application needs only an ID token to perform user authentication.
+
+- What is Client Credentials Flow?
+
+     M2M apps use the Client Credentials Flow (defined in OAuth 2.0 RFC 6749, section 4.4).
+
+- What is Device Authorization Flow?
+
+     evice apps use the Device Authorization Flow (drafted in OAuth 2.0). For use with mobile/native applications.
+
+- What is Resource Owner Password Flow?
+
+     not recommended, it requests that users provide credentials (username and password), typically using an interactive form.
