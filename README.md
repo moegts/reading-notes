@@ -2,9 +2,9 @@
 
 ![Reading Notes](readingNotes.png)
 
-## Hey, I'm Mohammad Ali Khalil, *Architect* from **Al-Quds College** Graduated in **2013** have good experience in **IT** and **Designing**
+## Hey, I'm Mohammad Ali Khalil, *MERN DEV* from **ASAC** Graduated in **2022** have good experience in **IT** and **Designing**
 
-### also looking to be ***Expert* Programer** (ان شاء الله)..
+### Always looking to be better by god well..
 
 [My GetHub](https://github.com/moegts)
 
