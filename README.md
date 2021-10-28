@@ -2,7 +2,7 @@
 
 ![Reading Notes](readingNotes.png)
 
-## Hey, I'm Mohammad Ali Khalil, *MERN DEV* from **ASAC** Graduated in **2022** have good experience in **IT** and **Designing**
+## Hey, I'm Mohammad Ali Khalil, *MERN DEV* Graduated in **2022** from **ASAC** have good experience in **IT** and **Designing**
 
 ### Always looking to be better by god well
 
