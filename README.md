@@ -15,7 +15,7 @@
 | class-01 | [Go to](./md401/class-01.md) | Pain vs. Suffering  |
 | class-02 | [Go to](./md401/class-02.md) | Testing and Modules |
 | class-03 | [Go to](./md401/class-03.md) |    Not Ready yet    |
-| class-04 | [Go to](./md401/class-04.md) |    Not Ready yet    |
+| class-04 | [Go to](./md401/class-04.md) |        Topic        |
 | class-05 | [Go to](./md401/class-05.md) |    Not Ready yet    |
 | class-06 | [Go to](./md401/class-06.md) |    Not Ready yet    |
 | class-07 | [Go to](./md401/class-07.md) |    Not Ready yet    |
