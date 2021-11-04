@@ -16,7 +16,7 @@
 | class-02 | [Go to](./md401/class-02.md) | Testing and Modules |
 | class-03 | [Go to](./md401/class-03.md) |    Not Ready yet    |
 | class-04 | [Go to](./md401/class-04.md) |        Topic        |
-| class-05 | [Go to](./md401/class-05.md) |    Not Ready yet    |
+| class-05 | [Go to](./md401/class-05.md) |    listed links     |
 | class-06 | [Go to](./md401/class-06.md) |    Not Ready yet    |
 | class-07 | [Go to](./md401/class-07.md) |    Not Ready yet    |
 | class-08 | [Go to](./md401/class-08.md) |    Not Ready yet    |
