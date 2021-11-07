@@ -8,7 +8,7 @@ introduction of TDD with Python and how to do unit tests and how to refactor saf
 
 1. 🆘 Write a unit test and make it fail (it needs to fail because the feature isn’t there, right? If this test passes, call the Ghostbusters, really)
 2. ✅ Write the feature and make the test pass! (you can dance after that)
-3. 🔵 Refactor the code — the first version doesn’t need to be the beautiful one (don’t be shy)
+3. 🔵 Refactor the code — the first version doesn’t need to be the beautiful one
 
 - TDD is not about the money/tests
 building what is needed to make the test pass. When we are writing tests we are forced to think about the design first and how we can break it into small pieces.
