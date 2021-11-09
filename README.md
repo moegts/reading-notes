@@ -19,7 +19,7 @@
 | class-05 | [Go to](./md401/class-05.md) |         Linked Lists          |
 | class-06 | [Go to](./md401/class-06.md) | Random Module & Risk Analysis |
 | class-07 | [Go to](./md401/class-07.md) |      Global and Nonlocal      |
-| class-08 | [Go to](./md401/class-08.md) |         Not Ready yet         |
+| class-08 | [Go to](./md401/class-08.md) |      List Comprehensions      |
 | class-09 | [Go to](./md401/class-09.md) |         Not Ready yet         |
 | class-10 | [Go to](./md401/class-10.md) |         Not Ready yet         |
 | class-11 | [Go to](./md401/class-11.md) |         Not Ready yet         |
