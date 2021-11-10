@@ -10,22 +10,22 @@
 
 ## Code 401 - Advanced Software Development:-
 
-| Contents |             Link             |             About             |
-| :------: | :--------------------------: | :---------------------------: |
-| class-01 | [Go to](./md401/class-01.md) |      Pain vs. Suffering       |
-| class-02 | [Go to](./md401/class-02.md) |      Testing and Modules      |
-| class-03 | [Go to](./md401/class-03.md) |      FileIO & Exceptions      |
-| class-04 | [Go to](./md401/class-04.md) |             Topic             |
-| class-05 | [Go to](./md401/class-05.md) |         Linked Lists          |
-| class-06 | [Go to](./md401/class-06.md) | Random Module & Risk Analysis |
-| class-07 | [Go to](./md401/class-07.md) |      Global and Nonlocal      |
-| class-08 | [Go to](./md401/class-08.md) |      List Comprehensions      |
-| class-09 | [Go to](./md401/class-09.md) |         Not Ready yet         |
-| class-10 | [Go to](./md401/class-10.md) |         Not Ready yet         |
-| class-11 | [Go to](./md401/class-11.md) |         Not Ready yet         |
-| class-12 | [Go to](./md401/class-12.md) |         Not Ready yet         |
-| class-13 | [Go to](./md401/class-13.md) |         Not Ready yet         |
-| class-14 | [Go to](./md401/class-14.md) |         Not Ready yet         |
+| Contents |             Link             |                   About                   |
+| :------: | :--------------------------: | :---------------------------------------: |
+| class-01 | [Go to](./md401/class-01.md) |            Pain vs. Suffering             |
+| class-02 | [Go to](./md401/class-02.md) |            Testing and Modules            |
+| class-03 | [Go to](./md401/class-03.md) |            FileIO & Exceptions            |
+| class-04 | [Go to](./md401/class-04.md) |                   Topic                   |
+| class-05 | [Go to](./md401/class-05.md) |               Linked Lists                |
+| class-06 | [Go to](./md401/class-06.md) |       Random Module & Risk Analysis       |
+| class-07 | [Go to](./md401/class-07.md) |            Global and Nonlocal            |
+| class-08 | [Go to](./md401/class-08.md) |            List Comprehensions            |
+| class-09 | [Go to](./md401/class-09.md) | Dunder Methods & Statistics - Probability |
+| class-10 | [Go to](./md401/class-10.md) |               Not Ready yet               |
+| class-11 | [Go to](./md401/class-11.md) |               Not Ready yet               |
+| class-12 | [Go to](./md401/class-12.md) |               Not Ready yet               |
+| class-13 | [Go to](./md401/class-13.md) |               Not Ready yet               |
+| class-14 | [Go to](./md401/class-14.md) |               Not Ready yet               |
 
 ## Code 301 Reading Notes:-
 
