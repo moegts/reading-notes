@@ -21,7 +21,7 @@
 | class-07 | [Go to](./md401/class-07.md) |            Global and Nonlocal            |
 | class-08 | [Go to](./md401/class-08.md) |            List Comprehensions            |
 | class-09 | [Go to](./md401/class-09.md) | Dunder Methods & Statistics - Probability |
-| class-10 | [Go to](./md401/class-10.md) |               Not Ready yet               |
+| class-10 | [Go to](./md401/class-10.md) |             Stacks and Queues             |
 | class-11 | [Go to](./md401/class-11.md) |               Not Ready yet               |
 | class-12 | [Go to](./md401/class-12.md) |               Not Ready yet               |
 | class-13 | [Go to](./md401/class-13.md) |               Not Ready yet               |
