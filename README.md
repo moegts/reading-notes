@@ -22,10 +22,15 @@
 | class-08 | [Go to](./md401/class-08.md) |            List Comprehensions            |
 | class-09 | [Go to](./md401/class-09.md) | Dunder Methods & Statistics - Probability |
 | class-10 | [Go to](./md401/class-10.md) |             Stacks and Queues             |
-| class-11 | [Go to](./md401/class-11.md) |               Data Analysis               |
-| class-12 | [Go to](./md401/class-12.md) |               Not Ready yet               |
-| class-13 | [Go to](./md401/class-13.md) |               Not Ready yet               |
+| class-11 | [Go to](./md401/class-11.md) |                   NumPy                   |
+| class-12 | [Go to](./md401/class-12.md) |                  Pandas                   |
+| class-13 | [Go to](./md401/class-13.md) |            Linear Regressions             |
 | class-14 | [Go to](./md401/class-14.md) |               Not Ready yet               |
+| class-15 | [Go to](./md401/class-15.md) |               Not Ready yet               |
+| class-16 | [Go to](./md401/class-16.md) |               Not Ready yet               |
+| class-17 | [Go to](./md401/class-17.md) |               Not Ready yet               |
+| class-18 | [Go to](./md401/class-18.md) |               Not Ready yet               |
+| class-19 | [Go to](./md401/class-19.md) |               Not Ready yet               |
 
 ## Code 301 Reading Notes:-
 

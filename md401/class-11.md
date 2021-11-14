@@ -1,4 +1,4 @@
-# Data Analysis
+# NumPy
 
 ## NumPy Tutorial: Data Analysis with Python
 
