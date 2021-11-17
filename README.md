@@ -25,7 +25,7 @@
 | class-11 | [Go to](./md401/class-11.md) |                   NumPy                   |
 | class-12 | [Go to](./md401/class-12.md) |                  Pandas                   |
 | class-13 | [Go to](./md401/class-13.md) |            Linear Regressions             |
-| class-14 | [Go to](./md401/class-14.md) |               Not Ready yet               |
+| class-14 | [Go to](./md401/class-14.md) |            Data Visualization             |
 | class-15 | [Go to](./md401/class-15.md) |               Not Ready yet               |
 | class-16 | [Go to](./md401/class-16.md) |               Not Ready yet               |
 | class-17 | [Go to](./md401/class-17.md) |               Not Ready yet               |
