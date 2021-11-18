@@ -10,27 +10,28 @@
 
 ## Code 401 - Advanced Software Development:-
 
-| Contents |             Link             |                   About                   |
-| :------: | :--------------------------: | :---------------------------------------: |
-| class-01 | [Go to](./md401/class-01.md) |            Pain vs. Suffering             |
-| class-02 | [Go to](./md401/class-02.md) |            Testing and Modules            |
-| class-03 | [Go to](./md401/class-03.md) |            FileIO & Exceptions            |
-| class-04 | [Go to](./md401/class-04.md) |                   Topic                   |
-| class-05 | [Go to](./md401/class-05.md) |               Linked Lists                |
-| class-06 | [Go to](./md401/class-06.md) |       Random Module & Risk Analysis       |
-| class-07 | [Go to](./md401/class-07.md) |            Global and Nonlocal            |
-| class-08 | [Go to](./md401/class-08.md) |            List Comprehensions            |
-| class-09 | [Go to](./md401/class-09.md) | Dunder Methods & Statistics - Probability |
-| class-10 | [Go to](./md401/class-10.md) |             Stacks and Queues             |
-| class-11 | [Go to](./md401/class-11.md) |                   NumPy                   |
-| class-12 | [Go to](./md401/class-12.md) |                  Pandas                   |
-| class-13 | [Go to](./md401/class-13.md) |            Linear Regressions             |
-| class-14 | [Go to](./md401/class-14.md) |            Data Visualization             |
-| class-15 | [Go to](./md401/class-15.md) |               Not Ready yet               |
-| class-16 | [Go to](./md401/class-16.md) |               Not Ready yet               |
-| class-17 | [Go to](./md401/class-17.md) |               Not Ready yet               |
-| class-18 | [Go to](./md401/class-18.md) |               Not Ready yet               |
-| class-19 | [Go to](./md401/class-19.md) |               Not Ready yet               |
+| Contents |              Link               |                   About                   |
+| :------: | :-----------------------------: | :---------------------------------------: |
+| class-01 |  [Go to](./md401/class-01.md)   |            Pain vs. Suffering             |
+| class-02 |  [Go to](./md401/class-02.md)   |            Testing and Modules            |
+| class-03 |  [Go to](./md401/class-03.md)   |            FileIO & Exceptions            |
+| class-04 |  [Go to](./md401/class-04.md)   |                   Topic                   |
+| class-05 |  [Go to](./md401/class-05.md)   |               Linked Lists                |
+| class-06 |  [Go to](./md401/class-06.md)   |       Random Module & Risk Analysis       |
+| class-07 |  [Go to](./md401/class-07.md)   |            Global and Nonlocal            |
+| class-08 |  [Go to](./md401/class-08.md)   |            List Comprehensions            |
+| class-09 |  [Go to](./md401/class-09.md)   | Dunder Methods & Statistics - Probability |
+| class-10 |  [Go to](./md401/class-10.md)   |             Stacks and Queues             |
+| class-11 |  [Go to](./md401/class-11.md)   |                   NumPy                   |
+| class-12 |  [Go to](./md401/class-12.md)   |                  Pandas                   |
+| class-13 |  [Go to](./md401/class-13.md)   |            Linear Regressions             |
+| class-14 |  [Go to](./md401/class-14.md)   |            Data Visualization             |
+| class-15 |  [Go to](./md401/class-15.md)   |                   Tree                    |
+| class-16 |  [Go to](./md401/class-16.md)   |               Not Ready yet               |
+| class-17 |  [Go to](./md401/class-17.md)   |               Not Ready yet               |
+| class-18 |  [Go to](./md401/class-18.md)   |               Not Ready yet               |
+| class-19 |  [Go to](./md401/class-19.md)   |               Not Ready yet               |
+| class-20 |  [Go to](./md401/class-20.md)   |               Not Ready yet               |
 
 ## Code 301 Reading Notes:-
 
@@ -52,13 +53,6 @@
 | class-12 | [Go to](./md301/class-12.md) |                  CRUD                  |
 | class-13 | [Go to](./md301/class-13.md) | Diversity & Inclusion => Tech Industry |
 | class-14 | [Go to](./md301/class-14.md) |         Authentication (OAuth)         |
-
-## Things I want to know more about
-
-React Docs - hello world https://reactjs.org/docs/hello-world.html
-React Docs - introducing JSX https://reactjs.org/docs/introducing-jsx.html
-React Docs - rendering elements https://reactjs.org/docs/rendering-elements.html
-React Docs - Components and props https://reactjs.org/docs/components-and-props.html
 
 ## Code 201 Reading Notes
 
