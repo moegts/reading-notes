@@ -1,6 +1,6 @@
 # [Welcome to my Reading Notes](https://moegts.github.io/reading-notes/)
 
-![Reading Notes](readingNotes.png)
+![Reading Notes](./102-and-201/readingNotes.png)
 
 ## Hey, I'm Mohammad Ali Khalil, *MERN DEV* Graduated in **2022** from **ASAC** have good experience in **IT** and **Designing**
 
