@@ -27,7 +27,7 @@
 | class-13 | [Go to](./md401/class-13.md) |            Linear Regressions             |
 | class-14 | [Go to](./md401/class-14.md) |            Data Visualization             |
 | class-15 | [Go to](./md401/class-15.md) |                   Tree                    |
-| class-16 | [Go to](./md401/class-16.md) |               Not Ready yet               |
+| class-16 | [Go to](./md401/class-16.md) |               Machine Learning Intro      |
 | class-17 | [Go to](./md401/class-17.md) |               Not Ready yet               |
 | class-18 | [Go to](./md401/class-18.md) |               Not Ready yet               |
 | class-19 | [Go to](./md401/class-19.md) |               Not Ready yet               |
