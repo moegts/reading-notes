@@ -27,8 +27,8 @@
 | class-13 | [Go to](./md401/class-13.md) |            Linear Regressions             |
 | class-14 | [Go to](./md401/class-14.md) |            Data Visualization             |
 | class-15 | [Go to](./md401/class-15.md) |                   Tree                    |
-| class-16 | [Go to](./md401/class-16.md) |               Machine Learning Intro      |
-| class-17 | [Go to](./md401/class-17.md) |               Not Ready yet               |
+| class-16 | [Go to](./md401/class-16.md) |          Machine Learning Intro           |
+| class-17 | [Go to](./md401/class-17.md) |               Web Scraping                |
 | class-18 | [Go to](./md401/class-18.md) |               Not Ready yet               |
 | class-19 | [Go to](./md401/class-19.md) |               Not Ready yet               |
 | class-20 | [Go to](./md401/class-20.md) |               Not Ready yet               |
@@ -58,8 +58,8 @@
 
 ### Here is my content list of 201:-
 
-|  Contents  |         Link          |                       About                       |
-| :--------: | :-------------------: | :-----------------------------------------------: |
+|  Contents  |                Link                 |                       About                       |
+| :--------: | :---------------------------------: | :-----------------------------------------------: |
 |  class-01  | [Go to](./102-and-201/class-01.md)  |         Introductory HTML and JavaScript          |
 |  class-02  | [Go to](./102-and-201/class-02.md)  |     HTML Text, CSS and Basic JS Instructions      |
 |  class-03  | [Go to](./102-and-201/class-03.md)  |      HTML Lists, JS Control Flow, Box Model       |
