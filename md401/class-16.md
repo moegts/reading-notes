@@ -1,6 +1,6 @@
 # Machine Learning Intro
 
-##  Data Science Primer
+## Data Science Primer
 
 ![a good model](./assets/goodModel.jpg)
 
@@ -19,7 +19,6 @@ training a ML model is like growing a startup. You also have too many tactics to
 Doing this upfront helps you save time and avoid wild goose chases… As a data scientist, you are a commander with limited resources (i.e. time).
 
 Exploratory analysis is like sending scouts to learn where to deploy your forces!
-
 
 ## Data Cleaning
 
@@ -50,5 +49,3 @@ data scientists actually do spend most their time on the earlier steps:
 3. Engineering new features.
 
 Again, that’s because better data beats fancier algorithms.
-
-

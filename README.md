@@ -29,7 +29,7 @@
 | class-15 | [Go to](./md401/class-15.md) |                   Tree                    |
 | class-16 | [Go to](./md401/class-16.md) |          Machine Learning Intro           |
 | class-17 | [Go to](./md401/class-17.md) |               Web Scraping                |
-| class-18 | [Go to](./md401/class-18.md) |               Not Ready yet               |
+| class-18 | [Go to](./md401/class-18.md) |                Automation                 |
 | class-19 | [Go to](./md401/class-19.md) |               Not Ready yet               |
 | class-20 | [Go to](./md401/class-20.md) |               Not Ready yet               |
 
