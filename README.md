@@ -32,6 +32,7 @@
 | class-18 | [Go to](./md401/class-18.md) |                Automation                 |
 | class-19 | [Go to](./md401/class-19.md) |               Not Ready yet               |
 | class-20 | [Go to](./md401/class-20.md) |               Not Ready yet               |
+| class-21 | [Go to](./md401/class-21.md) |               Not Ready yet               |
 
 ## Code 301 Reading Notes:-
 
