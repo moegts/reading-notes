@@ -10,6 +10,31 @@
 
 ## Code 401 - Advanced Software Development:-
 
+### **Month 2** Front-End
+
+| Contents |             Link             |      About      |
+| :------: | :--------------------------: | :-------------: |
+| class-26 | [Go to](./md401/class-26.md) | Intro to Django |
+| class-27 | [Go to](./md401/class-27.md) |  Not Ready Yet  |
+| class-28 | [Go to](./md401/class-28.md) |  Not Ready Yet  |
+| class-29 | [Go to](./md401/class-29.md) |  Not Ready Yet  |
+| class-30 | [Go to](./md401/class-30.md) |  Not Ready Yet  |
+| class-31 | [Go to](./md401/class-31.md) |  Not Ready Yet  |
+| class-32 | [Go to](./md401/class-32.md) |  Not Ready Yet  |
+| class-33 | [Go to](./md401/class-33.md) |  Not Ready Yet  |
+| class-34 | [Go to](./md401/class-34.md) |  Not Ready Yet  |
+| class-35 | [Go to](./md401/class-35.md) |  Not Ready Yet  |
+| class-36 | [Go to](./md401/class-36.md) |  Not Ready Yet  |
+| class-37 | [Go to](./md401/class-37.md) |  Not Ready Yet  |
+| class-38 | [Go to](./md401/class-38.md) |  Not Ready Yet  |
+| class-39 | [Go to](./md401/class-39.md) |  Not Ready Yet  |
+| class-40 | [Go to](./md401/class-40.md) |  Not Ready Yet  |
+| class-41 | [Go to](./md401/class-41.md) |  Not Ready Yet  |
+| class-42 | [Go to](./md401/class-42.md) |  Not Ready Yet  |
+| class-43 | [Go to](./md401/class-43.md) |  Not Ready Yet  |
+
+### **Month 1** Back-End
+
 | Contents |             Link             |                   About                   |
 | :------: | :--------------------------: | :---------------------------------------: |
 | class-01 | [Go to](./md401/class-01.md) |            Pain vs. Suffering             |
@@ -30,10 +55,6 @@
 | class-16 | [Go to](./md401/class-16.md) |          Machine Learning Intro           |
 | class-17 | [Go to](./md401/class-17.md) |               Web Scraping                |
 | class-18 | [Go to](./md401/class-18.md) |                Automation                 |
-| class-19 | [Go to](./md401/class-19.md) |               Not Ready yet               |
-| class-20 | [Go to](./md401/class-20.md) |               Not Ready yet               |
-| class-21 | [Go to](./md401/class-21.md) |               Not Ready yet               |
-| class-22 | [Go to](./md401/class-22.md) |               Not Ready yet               |
 
 ## Code 301 Reading Notes:-
 
