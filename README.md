@@ -32,7 +32,9 @@
 | class-41 | [Go to](./md401/class-41.md) |  Not Ready Yet  |
 | class-42 | [Go to](./md401/class-42.md) |  Not Ready Yet  |
 | class-43 | [Go to](./md401/class-43.md) |  Not Ready Yet  |
-| class-44 | [Go to](./md401/class-43.md) |  Not Ready Yet  |
+| class-44 | [Go to](./md401/class-44.md) |  Not Ready Yet  |
+| class-45 | [Go to](./md401/class-45.md) |  Not Ready Yet  |
+
 
 ### **Month 1** Back-End
 
