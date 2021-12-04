@@ -38,8 +38,6 @@
 | class-47 | [Go to](./md401/class-47.md) |  Not Ready Yet  |
 | class-48 | [Go to](./md401/class-48.md) |  Not Ready Yet  |
 
-
-
 ### **Month 1** Back-End
 
 | Contents |             Link             |                   About                   |
