@@ -135,10 +135,10 @@ def homepage(request):
 ```
 
 ```html
-{% load i18n %}
+{ load i18n }
 <html>
   <head>
-    <title>{% trans 'Homepage - Hall of Fame' %}</title>
+    <title>{ trans 'Homepage - Hall of Fame' }</title>
   </head>
   <body>
     {# Translated in the view: #}
@@ -146,17 +146,17 @@ def homepage(request):
     <p>
       {% blocktrans count member_count=bands.count %}
       Here is the only band in the hall of fame:
-      {% plural %}
+      { plural }
       Here are all the {{ member_count }} bands in the hall of fame:
       {% endblocktrans %}
     </p>
     <ul>
-    {% for band in bands %}
+    { for band in bands }
       <li>
         <h2><a href="{{ band.get_absolute_url }}">{{ band.name }}</a></h2>
         {% if band.can_rock %}<p>{% trans 'This band can rock!' %}</p>{% endif %}
       </li>
-    {% endfor %}
+    { endfor }
     </ul>
   </body>
 </html>
