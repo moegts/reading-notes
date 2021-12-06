@@ -15,7 +15,7 @@
 | Contents |             Link             |      About      |
 | :------: | :--------------------------: | :-------------: |
 | class-26 | [Go to](./md401/class-26.md) | Intro to Django |
-| class-27 | [Go to](./md401/class-27.md) |  Not Ready Yet  |
+| class-27 | [Go to](./md401/class-27.md) |  Using models   |
 | class-28 | [Go to](./md401/class-28.md) |  Not Ready Yet  |
 | class-29 | [Go to](./md401/class-29.md) |  Not Ready Yet  |
 | class-30 | [Go to](./md401/class-30.md) |  Not Ready Yet  |
@@ -118,4 +118,3 @@
 |  Read05  |    [Go to](./102-and-201/read05.md)     |  Expressions and operators  |
 |  Read06  |    [Go to](./102-and-201/read06.md)     |  Design web pages with CSS  |
 |  Read07  |    [Go to](./102-and-201/read07.md)     | Programming with JavaScript |
-# django-snacks
