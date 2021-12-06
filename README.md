@@ -118,3 +118,4 @@
 |  Read05  |    [Go to](./102-and-201/read05.md)     |  Expressions and operators  |
 |  Read06  |    [Go to](./102-and-201/read06.md)     |  Design web pages with CSS  |
 |  Read07  |    [Go to](./102-and-201/read07.md)     | Programming with JavaScript |
+# django-snacks
