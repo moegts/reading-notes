@@ -12,31 +12,31 @@
 
 ### **Month 2** Front-End
 
-| Contents |             Link             |      About      |
-| :------: | :--------------------------: | :-------------: |
-| class-26 | [Go to](./md401/class-26.md) | Intro to Django |
-| class-27 | [Go to](./md401/class-27.md) |  Using models   |
-| class-28 | [Go to](./md401/class-28.md) |  Not Ready Yet  |
-| class-29 | [Go to](./md401/class-29.md) |  Not Ready Yet  |
-| class-30 | [Go to](./md401/class-30.md) |  Not Ready Yet  |
-| class-31 | [Go to](./md401/class-31.md) |  Not Ready Yet  |
-| class-32 | [Go to](./md401/class-32.md) |  Not Ready Yet  |
-| class-33 | [Go to](./md401/class-33.md) |  Not Ready Yet  |
-| class-34 | [Go to](./md401/class-34.md) |  Not Ready Yet  |
-| class-35 | [Go to](./md401/class-35.md) |  Not Ready Yet  |
-| class-36 | [Go to](./md401/class-36.md) |  Not Ready Yet  |
-| class-37 | [Go to](./md401/class-37.md) |  Not Ready Yet  |
-| class-38 | [Go to](./md401/class-38.md) |  Not Ready Yet  |
-| class-39 | [Go to](./md401/class-39.md) |  Not Ready Yet  |
-| class-40 | [Go to](./md401/class-40.md) |  Not Ready Yet  |
-| class-41 | [Go to](./md401/class-41.md) |  Not Ready Yet  |
-| class-42 | [Go to](./md401/class-42.md) |  Not Ready Yet  |
-| class-43 | [Go to](./md401/class-43.md) |  Not Ready Yet  |
-| class-44 | [Go to](./md401/class-44.md) |  Not Ready Yet  |
-| class-45 | [Go to](./md401/class-45.md) |  Not Ready Yet  |
-| class-46 | [Go to](./md401/class-46.md) |  Not Ready Yet  |
-| class-47 | [Go to](./md401/class-47.md) |  Not Ready Yet  |
-| class-48 | [Go to](./md401/class-48.md) |  Not Ready Yet  |
+| Contents |             Link             |         About         |
+| :------: | :--------------------------: | :-------------------: |
+| class-26 | [Go to](./md401/class-26.md) |    Intro to Django    |
+| class-27 | [Go to](./md401/class-27.md) |     Using models      |
+| class-28 | [Go to](./md401/class-28.md) | Django CRUD and Forms |
+| class-29 | [Go to](./md401/class-29.md) |     Not Ready Yet     |
+| class-30 | [Go to](./md401/class-30.md) |     Not Ready Yet     |
+| class-31 | [Go to](./md401/class-31.md) |     Not Ready Yet     |
+| class-32 | [Go to](./md401/class-32.md) |     Not Ready Yet     |
+| class-33 | [Go to](./md401/class-33.md) |     Not Ready Yet     |
+| class-34 | [Go to](./md401/class-34.md) |     Not Ready Yet     |
+| class-35 | [Go to](./md401/class-35.md) |     Not Ready Yet     |
+| class-36 | [Go to](./md401/class-36.md) |     Not Ready Yet     |
+| class-37 | [Go to](./md401/class-37.md) |     Not Ready Yet     |
+| class-38 | [Go to](./md401/class-38.md) |     Not Ready Yet     |
+| class-39 | [Go to](./md401/class-39.md) |     Not Ready Yet     |
+| class-40 | [Go to](./md401/class-40.md) |     Not Ready Yet     |
+| class-41 | [Go to](./md401/class-41.md) |     Not Ready Yet     |
+| class-42 | [Go to](./md401/class-42.md) |     Not Ready Yet     |
+| class-43 | [Go to](./md401/class-43.md) |     Not Ready Yet     |
+| class-44 | [Go to](./md401/class-44.md) |     Not Ready Yet     |
+| class-45 | [Go to](./md401/class-45.md) |     Not Ready Yet     |
+| class-46 | [Go to](./md401/class-46.md) |     Not Ready Yet     |
+| class-47 | [Go to](./md401/class-47.md) |     Not Ready Yet     |
+| class-48 | [Go to](./md401/class-48.md) |     Not Ready Yet     |
 
 ### **Month 1** Back-End
 
