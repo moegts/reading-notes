@@ -183,10 +183,7 @@ Update the files as follows:
 <!-- templates/home.html -->
 
 
-  <p><a href="{% url 'logout' %}">Log Out</a></p>
   <p>You are not logged in</p>
-  <a href="{% url 'login' %}">Log In</a> |
-  <a href="{% url 'signup' %}">Sign Up</a>
 ```
 
 ```html
