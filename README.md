@@ -17,7 +17,7 @@
 | class-26 | [Go to](./md401/class-26.md) |    Intro to Django    |
 | class-27 | [Go to](./md401/class-27.md) |     Using models      |
 | class-28 | [Go to](./md401/class-28.md) | Django CRUD and Forms |
-| class-29 | [Go to](./md401/class-29.md) |     Not Ready Yet     |
+| class-29 | [Go to](./md401/class-29.md) |  Django Custom User   |
 | class-30 | [Go to](./md401/class-30.md) |     Not Ready Yet     |
 | class-31 | [Go to](./md401/class-31.md) |     Not Ready Yet     |
 | class-32 | [Go to](./md401/class-32.md) |     Not Ready Yet     |
