@@ -170,12 +170,13 @@ Update the files as follows:
 <html>
 <head>
   <meta charset="utf-8">
-  <title>{% block title %}Django Auth Tutorial{% endblock %}</title>
+  <title><!-- {% block title %}Django Auth Tutorial{% endblock %} --></title>
 </head>
 <body>
   <main>
-    {% block content %}
-    {% endblock %}
+    <!-- {% block content %}-->
+    <!-- {% endblock %} -->
+    
   </main>
 </body>
 </html>
@@ -202,36 +203,36 @@ Update the files as follows:
 ```html
 
 <!-- templates/registration/login.html -->
-{% extends 'base.html' %}
+<!-- {% extends 'base.html' %} -->
 
-{% block title %}Log In{% endblock %}
+<!-- {% block title %}Log In{% endblock %} -->
 
-{% block content %}
+<!-- {% block content %} -->
 <h2>Log In</h2>
 <form method="post">
-  {% csrf_token %}
-  {{ form.as_p }}
+  <!-- {% csrf_token %} -->
+  <!-- {{ form.as_p }} -->
   <button type="submit">Log In</button>
 </form>
-{% endblock %}
+<!-- {% endblock %} -->
 
 ```
 
 ```html
 
 <!-- templates/registration/signup.html -->
-{% extends 'base.html' %}
+<!-- {% extends 'base.html' %} -->
 
-{% block title %}Sign Up{% endblock %}
+<!-- {% block title %}Sign Up{% endblock %} -->
 
-{% block content %}
+<!-- {% block content %} -->
 <h2>Sign Up</h2>
 <form method="post">
-  {% csrf_token %}
-  {{ form.as_p }}
+  <!-- {% csrf_token %} -->
+  <!-- {{ form.as_p }} -->
   <button type="submit">Sign Up</button>
 </form>
-{% endblock %}
+<!-- {% endblock %} -->
 ```
 
 Now for our urls.py files at the project and app level.
