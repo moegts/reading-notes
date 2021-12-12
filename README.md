@@ -12,26 +12,26 @@
 
 ### **Month 2** Front-End
 
-|  day  | Contents |             Link             |         About         |
-| :---: | :------: | :--------------------------: | :-------------------: |
-|   1   | class-26 | [Go to](./md401/class-26.md) |    Intro to Django    |
-|   2   | class-27 | [Go to](./md401/class-27.md) |     Using models      |
-|   3   | class-28 | [Go to](./md401/class-28.md) | Django CRUD and Forms |
-|   4   | class-29 | [Go to](./md401/class-29.md) |  Django Custom User   |
-|   5   | class-30 | [Go to](./md401/class-30.md) |      Hash Tables      |
-|   6   | class-31 | [Go to](./md401/class-31.md) |     Not Ready Yet     |
-|   7   | class-32 | [Go to](./md401/class-32.md) |     Not Ready Yet     |
-|   8   | class-33 | [Go to](./md401/class-33.md) |     Not Ready Yet     |
-|   9   | class-34 | [Go to](./md401/class-34.md) |     Not Ready Yet     |
-|  10   | class-35 | [Go to](./md401/class-35.md) |     Not Ready Yet     |
-|  11   | class-36 | [Go to](./md401/class-36.md) |     Not Ready Yet     |
-|  12   | class-37 | [Go to](./md401/class-37.md) |     Not Ready Yet     |
-|  13   | class-38 | [Go to](./md401/class-38.md) |     Not Ready Yet     |
-|  14   | class-39 | [Go to](./md401/class-39.md) |     Not Ready Yet     |
-|  15   | class-40 | [Go to](./md401/class-40.md) |     Not Ready Yet     |
-|  16   | class-41 | [Go to](./md401/class-41.md) |     Not Ready Yet     |
-|  17   | class-42 | [Go to](./md401/class-42.md) |     Not Ready Yet     |
-|  18   | class-43 | [Go to](./md401/class-43.md) |     Not Ready Yet     |
+|  day  | Contents |             Link             |             About              |
+| :---: | :------: | :--------------------------: | :----------------------------: |
+|   1   | class-26 | [Go to](./md401/class-26.md) |        Intro to Django         |
+|   2   | class-27 | [Go to](./md401/class-27.md) |          Using models          |
+|   3   | class-28 | [Go to](./md401/class-28.md) |     Django CRUD and Forms      |
+|   4   | class-29 | [Go to](./md401/class-29.md) |       Django Custom User       |
+|   5   | class-30 | [Go to](./md401/class-30.md) |          Hash Tables           |
+|   6   | class-31 | [Go to](./md401/class-31.md) | Django REST Framework & Docker |
+|   7   | class-32 | [Go to](./md401/class-32.md) |         Not Ready Yet          |
+|   8   | class-33 | [Go to](./md401/class-33.md) |         Not Ready Yet          |
+|   9   | class-34 | [Go to](./md401/class-34.md) |         Not Ready Yet          |
+|  10   | class-35 | [Go to](./md401/class-35.md) |         Not Ready Yet          |
+|  11   | class-36 | [Go to](./md401/class-36.md) |         Not Ready Yet          |
+|  12   | class-37 | [Go to](./md401/class-37.md) |         Not Ready Yet          |
+|  13   | class-38 | [Go to](./md401/class-38.md) |         Not Ready Yet          |
+|  14   | class-39 | [Go to](./md401/class-39.md) |         Not Ready Yet          |
+|  15   | class-40 | [Go to](./md401/class-40.md) |         Not Ready Yet          |
+|  16   | class-41 | [Go to](./md401/class-41.md) |         Not Ready Yet          |
+|  17   | class-42 | [Go to](./md401/class-42.md) |         Not Ready Yet          |
+|  18   | class-43 | [Go to](./md401/class-43.md) |         Not Ready Yet          |
 
 
 ### **Month 1** Back-End
