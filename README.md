@@ -20,7 +20,7 @@
 |   4   | class-29 | [Go to](./md401/class-29.md) |       Django Custom User       |
 |   5   | class-30 | [Go to](./md401/class-30.md) |          Hash Tables           |
 |   6   | class-31 | [Go to](./md401/class-31.md) | Django REST Framework & Docker |
-|   7   | class-32 | [Go to](./md401/class-32.md) |         Not Ready Yet          |
+|   7   | class-32 | [Go to](./md401/class-32.md) |    Permissions & Postgresql    |
 |   8   | class-33 | [Go to](./md401/class-33.md) |         Not Ready Yet          |
 |   9   | class-34 | [Go to](./md401/class-34.md) |         Not Ready Yet          |
 |  10   | class-35 | [Go to](./md401/class-35.md) |         Not Ready Yet          |
