@@ -28,7 +28,7 @@
 |  12   | class-37 | [Go to](./md401/class-37.md) |              React 1               |
 |  13   | class-38 | [Go to](./md401/class-38.md) |              React 2               |
 |  14   | class-39 | [Go to](./md401/class-39.md) |              React 3               |
-|  15   | class-40 | [Go to](./md401/class-40.md) |           Not Ready Yet            |
+|  15   | class-40 | [Go to](./md401/class-40.md) |              React 4               |
 |  16   | class-41 | [Go to](./md401/class-41.md) |           Not Ready Yet            |
 |  17   | class-42 | [Go to](./md401/class-42.md) |           Not Ready Yet            |
 |  18   | class-43 | [Go to](./md401/class-43.md) |           Not Ready Yet            |
